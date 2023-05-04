@@ -1,0 +1,19 @@
+AR REPOSITÓRIO DO GITHUB:
+
+1- Criar uma pasta no seu disco local -> 'ordem-de-servico'
+2- Abra o terminal em seu vscode com o arquivo ordem-de-servico aberto -> git init 
+3- Conecte a sua pasta com o arquivo da nuvem -> git remote add origin https://github.com/emilytsen/ordem-de-servico
+4- puxe todos os arquivos que estão na nuvem -> git pull
+
+VERSIONAMENTO
+para o fim de qualquer alteração:
+1- ver o que foi mudado (deve estar em vermelho) -> git status  
+2- adicionar o que foi mudado -> git add .
+3- ver o que foi adicionado (deve estar em verde) -> git status  opcional 
+4- commitar o que foi mudado -> git commit -m "ideia principal da mudança"
+5- ver o que foi commitado (deve estar em branco) -> git status   opcional
+6- enviar para a nuvem -> git push
+
+
+OUTROS COMANDOS:
+clear -> limpar terminal
