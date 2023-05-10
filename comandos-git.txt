@@ -14,6 +14,10 @@ para o fim de qualquer alteração:
 5- ver o que foi commitado (deve estar em branco) -> git status   opcional
 6- enviar para a nuvem -> git push
 
+CRIAR PASTAS ANGULAR:
+ ng g m pages/user-edit --route edit --routing --module pages/home
+ ng g m pages/home --route home --routing --module app   
+
 
 OUTROS COMANDOS:
 clear -> limpar terminal
